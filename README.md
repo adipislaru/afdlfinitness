@@ -9,7 +9,7 @@ This is a simple tool made for a homework at University that checks if the langu
 - The alphabet will contain a-z A-Z
 
 # Input
-- On the first line, a word with length greater than **0**
+- On the first line, character **_** ( underscore )
 - On the second lines, 3 integers: **n** ( number of states ), **ns** ( number of final states ) and **s** ( number of simbols in the alphabet )
 - On the next lines, values **st** ( current state ), **c** ( character ) and **end** ( next state ).
 
